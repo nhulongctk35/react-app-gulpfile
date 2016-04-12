@@ -7,8 +7,8 @@ The generated project includes a development server on port `3030`, which will r
 ```bash
 $ npm install
 
-```bash
+
 $ bower install
 
-```bash
+
 $ gulp serve
